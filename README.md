@@ -2,8 +2,8 @@
 
 ![App](img/readme-app.png)
 
-[Example App here!](https://fancy-dream-3458.on.fleek.co/)
-[Example App on IPFS here!](ipfs://Qme4KacFx21y6pYuTC6veAU2usryXB3fNWqLkX3a2hMvDe)
+[Example App here!](https://damp-bush-7824.on.fleek.co/)
+[Example App on IPFS here!](ipfs://QmbGMsLvjWhqHyfdUTdCcvH6SmmLTLSuyQDAPZx1sDKBsS)
 
 Built with ❤️ using:
 NextJS
